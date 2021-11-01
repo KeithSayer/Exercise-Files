@@ -1,0 +1,5 @@
+USA, 100
+Canada, 75
+Mexico, 80
+Norway, 200
+New Zealand, 15
